@@ -1,0 +1,1 @@
+Cortacesped con seguimiento del recorrido y capacidad de evitar obstaculos de manera muy básica, usando la libreria ping
